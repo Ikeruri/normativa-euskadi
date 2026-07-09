@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="page-title">Lehen Hezkuntzako Legeria — Euskadi</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container header-row">
+    <div>
+      <h1 id="site-title">Lehen Hezkuntzako irakasleentzako legeria — Euskadi</h1>
+      <p class="subtitle" id="site-subtitle">Legeak, dekretuak, protokoloak eta plataformen gidak, bilatzaile berean.</p>
+    </div>
+    <div class="lang-switch" id="lang-switch">
+      <button class="lang-btn" data-lang="eu">EUS</button>
+      <button class="lang-btn" data-lang="es">ES</button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="search-section">
+    <input type="text" id="search-input" placeholder="" autocomplete="off">
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-cat="todos"></button>
+      <button class="filter-btn" data-cat="normativa"></button>
+      <button class="filter-btn" data-cat="convivencia"></button>
+      <button class="filter-btn" data-cat="gestion"></button>
+      <button class="filter-btn" data-cat="tutoriales"></button>
+    </div>
+  </section>
+
+  <p id="results-count" class="results-count"></p>
+
+  <section id="results" class="results"></section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p id="footer-disclaimer"><strong></strong></p>
+    <p class="meta" id="footer-meta"></p>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script src="i18n.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

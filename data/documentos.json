@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ley-17-2023",
+    "titulo_es": "Ley 17/2023, de 21 de diciembre, de Educación de la Comunidad Autónoma del País Vasco",
+    "titulo_eu": "17/2023 LEGEA, abenduaren 21ekoa, Euskal Autonomia Erkidegoko Hezkuntzarena",
+    "categoria": "normativa",
+    "resumen": "Ley marco que regula el sistema educativo vasco, incluida la etapa de Educación Primaria (6-12 años).",
+    "fuente_url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-901",
+    "fuente_url_eu": "https://www.euskadi.eus/eusko-jaurlaritza/-/eli/es-pv/l/2023/12/21/17/dof/eus/html/",
+    "fecha": "2023-12-21",
+    "tags": ["ley", "educación primaria", "sistema educativo", "CAPV"]
+  },
+  {
+    "id": "decreto-77-2023",
+    "titulo_es": "Decreto 77/2023, de 30 de mayo, de establecimiento del currículo de Educación Básica",
+    "titulo_eu": "77/2023 DEKRETUA, maiatzaren 30ekoa, Oinarrizko Hezkuntzaren curriculuma zehaztu eta Euskal Autonomia Erkidegoan ezartzekoa",
+    "categoria": "normativa",
+    "resumen": "Establece el currículo de Educación Básica (incluye Primaria) y su implantación en Euskadi, en aplicación de la LOMLOE.",
+    "fuente_url": "https://www.euskadi.eus/bopv2/datos/2023/06/2302729a.pdf",
+    "fuente_url_eu": "https://www.euskadi.eus/web01-bopv/es/p43aBOPVWebWar/VerParalelo.do?cd2023002729=&BOPV_HIDE_CALENDAR=true",
+    "fecha": "2023-05-30",
+    "tags": ["currículo", "decreto", "LOMLOE", "educación básica", "evaluación"]
+  },
+  {
+    "id": "portal-normativa-educativa",
+    "titulo_es": "Portal de Normativa Educativa del Gobierno Vasco",
+    "categoria": "normativa",
+    "resumen": "Recopilación oficial y actualizada de toda la normativa educativa vigente en Euskadi. Punto de referencia para comprobar cambios recientes.",
+    "fuente_url": "https://www.euskadi.eus/informacion/normativa-educativa/web01-s2hhome/es/",
+    "fecha": null,
+    "tags": ["normativa", "portal oficial", "actualizaciones"]
+  },
+  {
+    "id": "bopv-buscador",
+    "titulo_es": "Boletín Oficial del País Vasco (BOPV) - buscador",
+    "categoria": "normativa",
+    "resumen": "Buscador oficial del boletín para localizar leyes, decretos y órdenes nuevas o modificaciones a normativa existente.",
+    "fuente_url": "https://www.euskadi.eus/web01-bopv/es/",
+    "fecha": null,
+    "tags": ["BOPV", "boletín oficial", "buscador"]
+  },
+  {
+    "id": "convivencia-normativa-protocolos",
+    "titulo_es": "Normativa y protocolos de convivencia y coeducación",
+    "categoria": "convivencia",
+    "resumen": "Recopilación de normativa y protocolos del ámbito de convivencia escolar y coeducación en centros de Euskadi.",
+    "fuente_url": "https://www.euskadi.eus/ambito-de-actuacion-convivencia-y-coeducacion-convivencia-normativa-y-protocolos/web01-a3hbconv/es/",
+    "fecha": null,
+    "tags": ["convivencia", "coeducación", "protocolos"]
+  },
+  {
+    "id": "guia-acoso-escolar-2015",
+    "titulo_es": "Guía de actuación en los centros educativos de la CAPV ante el acoso escolar",
+    "categoria": "convivencia",
+    "resumen": "Guía de referencia para la detección y actuación del profesorado ante casos de acoso escolar.",
+    "fuente_url": "https://www.euskadi.eus/inn-educativa-documentos-convivencia/web01-a2hberri/es/",
+    "fecha": "2015",
+    "tags": ["acoso escolar", "bullying", "convivencia", "protocolo"]
+  },
+  {
+    "id": "instrucciones-acoso-2024",
+    "titulo_es": "Instrucciones sobre el protocolo de actuación ante situaciones de acoso escolar y el protocolo de intervención y posvención de la conducta suicida",
+    "categoria": "convivencia",
+    "resumen": "Instrucciones actualizadas (2024) que coordinan el protocolo de acoso escolar con el protocolo de conducta suicida.",
+    "fuente_url": "https://www.euskadi.eus/inn-educativa-documentos-convivencia/web01-a2hberri/es/",
+    "fecha": "2024",
+    "tags": ["acoso escolar", "conducta suicida", "protocolo", "2024"]
+  },
+  {
+    "id": "programa-absentismo-bizkaia",
+    "titulo_es": "Programa para garantizar el derecho a la educación: erradicación de la desescolarización y del absentismo escolar (Bizkaia)",
+    "categoria": "convivencia",
+    "resumen": "Programa conjunto del Gobierno Vasco, la Diputación de Bizkaia y EUDEL para la prevención y el protocolo de intervención ante el absentismo escolar.",
+    "fuente_url": "https://www.euskadi.eus/contenidos/documentacion/inn_doc_esc_inclusiva/es_def/adjuntos/diversidad/120017c_Pub_EJ_Absentismo_Bizkaia_c.pdf",
+    "fecha": "2015",
+    "tags": ["absentismo", "protocolo", "Bizkaia"]
+  },
+  {
+    "id": "documentos-escuela-inclusiva",
+    "titulo_es": "Documentos y publicaciones - Escuela inclusiva y atención a la diversidad",
+    "categoria": "gestion",
+    "resumen": "Recopilación de guías y documentos oficiales sobre atención a la diversidad y escuela inclusiva.",
+    "fuente_url": "https://www.euskadi.eus/inn-educativa-documentos-esc-inclusiva/web01-a2hberri/es/",
+    "fecha": null,
+    "tags": ["atención a la diversidad", "escuela inclusiva", "gestión de centro"]
+  },
+  {
+    "id": "hezigunea",
+    "titulo_es": "Hezigunea - Aplicaciones del Departamento de Educación",
+    "titulo_eu": "Hezigunea",
+    "categoria": "tutoriales",
+    "resumen": "Plataforma del Gobierno Vasco con las aplicaciones administrativas y pedagógicas del profesorado (incluye un entorno de aprendizaje virtual basado en Moodle).",
+    "fuente_url": "https://hezigunea.euskadi.eus/es/aplicaciones-del-departamento",
+    "fecha": null,
+    "tags": ["Hezigunea", "tutorial", "plataforma", "aplicaciones"]
+  },
+  {
+    "id": "ordezkagunea",
+    "titulo_es": "Ordezkagunea - Gestión de sustituciones del profesorado",
+    "titulo_eu": "Ordezkagunea",
+    "categoria": "tutoriales",
+    "resumen": "Aplicativo oficial para la gestión telemática de las sustituciones del profesorado en la red pública vasca.",
+    "fuente_url": "https://ordezkagunea.euskadi.eus/eu/",
+    "fecha": null,
+    "tags": ["Ordezkagunea", "sustituciones", "tutorial", "plataforma"]
+  }
+]
